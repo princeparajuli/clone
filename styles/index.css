@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+}
+
+.main_body {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+/* Top navbar */
+.top_navbar {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  display: flex;
+  flex: 1;
+  height: 7vh;
+  z-index: 1;
+  align-items: center;
+  text-align: center;
+}
+
+/* Left side */
+.left_side {
+  flex: 0.3;
+  background-color: white;
+  height: 100vh;
+}
+/* Center */
+.center {
+  flex: 0.4;
+  background-color: dodgerblue;
+  height: 100vh;
+}
+
+/* Right side */
+.right_side {
+  flex: 0.3;
+  background-color: darkslateblue;
+  height: 100vh;
+}

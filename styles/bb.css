@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(167, 168, 168);
+    border-radius: 5px;
+    padding: 25px 20px;
+}
+
+.img-card img
+{
+    height: 200px;
+    width: 110px;
+    border-radius: 10px;
+    margin: 0 3px;
+    object-fit: cover;
+    box-shadow: 0 1px 5px;
+}
+
+.img-card p
+{
+    font-size: 18px;
+    color: white;
+}
+.img-profile
+{
+    position: absolute;
+}
+
+.img-card .img-profile > img
+{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: -193px 8px;
+    border: 2px solid white;
+}
+.img-card p{
+    font-size: 19px;
+    position: absolute;
+    margin-top: -38px;
+}

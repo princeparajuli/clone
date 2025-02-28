@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+ }
+.overall-container{
+  display: flex;
+}
+.container1{
+    display: flex;
+    
+}
+.container1 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
+.container1 img{
+    height: 50px;
+    width: 50px;
+}
+.container2{
+    display: flex;
+}
+.container2 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 15%;
+}
+.container2 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
+.container3{
+    display: flex;
+}
+.container3 img{
+    height: 50px;
+    width: 50px;
+}
+.container3 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
+.container4{
+    display: flex;
+}
+.container4 img{
+    height: 60px;
+    width: 60px;
+
+}
+.container4 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
+.container5{
+    display: flex;
+}
+.container5 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 14px;
+}
+.container5 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
+.container6{
+    display: flex;
+}
+.container6 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.container6 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
+.container7{
+    display: flex;
+}
+.container7 img{
+    height: 50px;
+    width: 50px;
+}
+.container7 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
+.container8{
+    display: flex;
+}
+.container8 img{
+    height: 50px;
+    width: 50px;
+}
+.container8 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+    
+}
+.container9{
+    display: flex;
+}
+.container9 img{
+    height: 50px;
+    width: 50px;
+}
+.container9 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
+.container10{
+    display: flex;
+}
+.container10 img{
+    height: 50px;
+    width: 50px;
+}
+.container10 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
+.head{
+  display: flex;
+}
+.main_body{
+    display: flex;
+}
+.profile{
+    display: flex;
+}
+.profile img{
+    height: 90px;
+    width: 90px;   
+    border-radius: 50%;
+}
